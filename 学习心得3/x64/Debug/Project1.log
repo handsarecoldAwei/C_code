@@ -1,0 +1,5 @@
+﻿  源.c
+D:\Project\C\project1\源.c(33,1): warning C4047: “初始化”:“char”与“char [6]”的间接级别不同
+D:\Project\C\project1\源.c(46,1): warning C4047: “初始化”:“char”与“char [5]”的间接级别不同
+D:\Project\C\project1\源.c(59,1): warning C4047: “初始化”:“char”与“char [5]”的间接级别不同
+  Project1.vcxproj -> D:\Project\C\project1\x64\Debug\Project1.exe

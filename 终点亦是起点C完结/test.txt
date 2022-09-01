@@ -1,0 +1,15 @@
+#include <stdio.h>
+int main()
+{
+   printf("Hello, World!");
+   return 0;
+}0 : D:\ShiWeiGeng\新建文件夹 (11)\VsCode\Project1\源.c 997 Aug 31 2022 17:59:51 
+1 : D:\ShiWeiGeng\新建文件夹 (11)\VsCode\Project1\源.c 997 Aug 31 2022 17:59:51 
+2 : D:\ShiWeiGeng\新建文件夹 (11)\VsCode\Project1\源.c 997 Aug 31 2022 17:59:51 
+3 : D:\ShiWeiGeng\新建文件夹 (11)\VsCode\Project1\源.c 997 Aug 31 2022 17:59:51 
+4 : D:\ShiWeiGeng\新建文件夹 (11)\VsCode\Project1\源.c 997 Aug 31 2022 17:59:51 
+5 : D:\ShiWeiGeng\新建文件夹 (11)\VsCode\Project1\源.c 997 Aug 31 2022 17:59:51 
+6 : D:\ShiWeiGeng\新建文件夹 (11)\VsCode\Project1\源.c 997 Aug 31 2022 17:59:51 
+7 : D:\ShiWeiGeng\新建文件夹 (11)\VsCode\Project1\源.c 997 Aug 31 2022 17:59:51 
+8 : D:\ShiWeiGeng\新建文件夹 (11)\VsCode\Project1\源.c 997 Aug 31 2022 17:59:51 
+9 : D:\ShiWeiGeng\新建文件夹 (11)\VsCode\Project1\源.c 997 Aug 31 2022 17:59:51 
